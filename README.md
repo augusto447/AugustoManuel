@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou Augusto Manuel
 
-🎓 Estudante de Engenharia de Telecomunicações | Desenvolvedor Full-Stack em formação  
-💻 Apaixonado por Back-end, Front-end e Cibersegurança  
-📚 Sempre aprendendo novas tecnologias e desafios
+Engenheiro de Telecomunicações em formação, desenvolvedor Frontend e entusiasta de cibersegurança. 
+Apaixonado por criar soluções inteligentes, escaláveis e seguras, combinando habilidades em Front-end  com uma visão estratégica para redes e sistemas. 
+Domino HTML, CSS, JavaScript, TypeScript, Vue.js, React,  Git e GitHub. 
+Sempre aprendendo, sempre codificando, sempre evoluindo.
 
----
+
 
 ## 🛠 Tecnologias & Ferramentas
 
