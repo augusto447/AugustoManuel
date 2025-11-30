@@ -22,26 +22,19 @@
 
 <p align="center">
   <!-- Styling -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="TailwindCSS" width="60" height="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css-modules/css-modules.png" alt="CSS Modules" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/augusto447/assets/main/css-modules.png" alt="CSS Modules" width="60" height="60" />
 </p>
 
 <p align="center">
   <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" alt="VS Code" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/augusto447/assets/main/git.png" alt="Git" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/augusto447/assets/main/github.png" alt="GitHub" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/augusto447/assets/main/vscode.png" alt="VS Code" width="60" height="60" />
 </p>
 
-
-
-## 💡 Features
-
-- Clean and modern layout  
-- All technology logos visible and organized  
-- Highlights **React.js as primary**, with Vue.js as secondary  
-- Perfect for GitHub portfolio  
+---
 
 
 
