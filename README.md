@@ -18,7 +18,7 @@
   <img alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />
   <img alt="TailwindCSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
   <img alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-  <img alt="CSS Modules" width="26px" src="https://raw.githubusercontent.com/augusto447/mini-rede-social/main/assets/css-modules.png" />
+
   <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/augusto447/mini-rede-social/main/assets/github.png" />
 </p>
