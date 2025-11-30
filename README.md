@@ -19,7 +19,7 @@
   <img alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
 
   <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/augusto447/mini-rede-social/main/assets/github.png" />
+
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c89f8&height=120&section=footer"/>
