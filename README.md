@@ -8,7 +8,7 @@
   Building modern, responsive, and interactive web applications using <strong>React.js</strong> as my main framework, with knowledge in <strong>Vue.js</strong> as well.
 </p>
 
----
+
 
 ## 🛠 Technologies & Tools
 
