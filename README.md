@@ -9,17 +9,15 @@
 </div>
 <br/>
 <p align="center">
-  <p align="center">
-  <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-  <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />
-  <img alt="Nuxt.js" width="26px" src="https://raw.githubusercontent.com/nuxt/nuxt-brand/main/logos/nuxt-icon.svg" />
-  <img alt="Next.js" width="26px" src="https://raw.githubusercontent.com/vercel/next.js/canary/packages/shared/nextjs-light.svg" />
-  <img alt="TailwindCSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
-  <img alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-  <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+ | Ferramentas & IDE | Linguagens | Frameworks & Bibliotecas |
+|------------------|------------|-------------------------|
+| <img alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> | <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> | <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> |
+| <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> | <img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> | <img alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" /> |
+|                  |            | <img alt="Nuxt.js" width="26px" src="https://raw.githubusercontent.com/nuxt/nuxt-brand/main/logos/nuxt-icon.svg" /> |
+|                  |            | <img alt="Next.js" width="26px" src="https://raw.githubusercontent.com/vercel/next.js/canary/packages/shared/nextjs-light.svg" /> |
+|                  |            | <img alt="TailwindCSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /> |
+|                  |            | <img alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" /> |
+
 </p>
 
 
